@@ -1,0 +1,10 @@
+C:\Users\John\Documents\JUST PRACTICE\ProC#\MathematicalNuget\CalculationNuget\bin\Debug\netstandard2.1\CalculationNuget.deps.json
+C:\Users\John\Documents\JUST PRACTICE\ProC#\MathematicalNuget\CalculationNuget\bin\Debug\netstandard2.1\CalculationNuget.dll
+C:\Users\John\Documents\JUST PRACTICE\ProC#\MathematicalNuget\CalculationNuget\bin\Debug\netstandard2.1\CalculationNuget.pdb
+C:\Users\John\Documents\JUST PRACTICE\ProC#\MathematicalNuget\CalculationNuget\obj\Debug\netstandard2.1\CalculationNuget.csproj.AssemblyReference.cache
+C:\Users\John\Documents\JUST PRACTICE\ProC#\MathematicalNuget\CalculationNuget\obj\Debug\netstandard2.1\CalculationNuget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Documents\JUST PRACTICE\ProC#\MathematicalNuget\CalculationNuget\obj\Debug\netstandard2.1\CalculationNuget.AssemblyInfoInputs.cache
+C:\Users\John\Documents\JUST PRACTICE\ProC#\MathematicalNuget\CalculationNuget\obj\Debug\netstandard2.1\CalculationNuget.AssemblyInfo.cs
+C:\Users\John\Documents\JUST PRACTICE\ProC#\MathematicalNuget\CalculationNuget\obj\Debug\netstandard2.1\CalculationNuget.csproj.CoreCompileInputs.cache
+C:\Users\John\Documents\JUST PRACTICE\ProC#\MathematicalNuget\CalculationNuget\obj\Debug\netstandard2.1\CalculationNuget.dll
+C:\Users\John\Documents\JUST PRACTICE\ProC#\MathematicalNuget\CalculationNuget\obj\Debug\netstandard2.1\CalculationNuget.pdb
